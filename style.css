@@ -22,9 +22,8 @@ img {
     width: auto;
     margin-bottom: 15px;
 
-    /* padding-bottom: 150px; */
-    /* background-image: url(/images/Rio-background.jpg); */
-    /* background-size: cover; */
+     background-image: url(/images/Rio-background.jpg); 
+     background-size: cover; 
 }
 
 .mid {
